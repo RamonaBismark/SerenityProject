@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.fasttrack.features.SearchTest" skipped="0" tests="1" time="14.16" timestamp="2022-01-27 07:09:57"><testcase classname="org.fasttrack.features.SearchTest" name="Search test"><error message="Expected condition failed: waiting for net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$502/0x0000000800faa9a0@756b2d90 (tried for 5 second(s) with 50 milliseconds interval)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-59ALR1L', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.TimeoutException">Expected condition failed: waiting for net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$502/0x0000000800faa9a0@756b2d90 (tried for 5 second(s) with 50 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59ALR1L', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$502/0x0000000800faa9a0@756b2d90 (tried for 5 second(s) with 50 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59ALR1L', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown&#13;
+org.fasttrack.pages.LoginPage.setEmailField(LoginPage.java:22)&#13;
+org.fasttrack.steps.LoginSteps.enterCredentials(LoginSteps.java:16)&#13;
+org.fasttrack.steps.LoginSteps.doLogin(LoginSteps.java:33)&#13;
+org.fasttrack.features.SearchTest.searchTest(SearchTest.java:12)&#13;
+</system-err></testcase></testsuite>
