@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.fasttrack.features.RegisterTest" skipped="0" tests="1" time="11.72" timestamp="2022-01-20 08:34:46"><testcase classname="org.fasttrack.features.RegisterTest" name="Register with email and password test"><error message="Expected condition failed: waiting for net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$496/0x0000000800fa4838@3c9ef6e9 (tried for 5 second(s) with 50 milliseconds interval)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-59ALR1L', ip: '192.168.0.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.TimeoutException">Expected condition failed: waiting for net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$496/0x0000000800fa4838@3c9ef6e9 (tried for 5 second(s) with 50 milliseconds interval)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-59ALR1L', ip: '192.168.0.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
-Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$496/0x0000000800fa4838@3c9ef6e9 (tried for 5 second(s) with 50 milliseconds interval)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-59ALR1L', ip: '192.168.0.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
-Driver info: driver.version: unknown&#13;
-org.fasttrack.pages.RegisterPage.setEmailField(RegisterPage.java:23)&#13;
-org.fasttrack.steps.RegisterSteps.enterCredentials(RegisterSteps.java:16)&#13;
-org.fasttrack.features.RegisterTest.registerWithEmailAndPasswordTest(RegisterTest.java:11)&#13;
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.fasttrack.features.RegisterTest" skipped="0" tests="1" time="29.71" timestamp="2022-01-27 11:10:24"><testcase classname="org.fasttrack.features.RegisterTest" name="Register with email and password test"/></testsuite>

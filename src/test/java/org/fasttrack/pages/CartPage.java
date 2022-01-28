@@ -13,16 +13,16 @@ public class CartPage extends BasePage {
     @FindBy (css = "??????")
     private WebElementFacade subtotalText;
 
-
-    public int getSubtotalPricesCalculated (){
-        int sum = 0;
-        for (WebElementFacade element: listOfSubtotalPrices){
-            sum += getIntFromPrice(element.getText());
-        }
-        return sum;
-    }
-
-    public boolean isSubtotalPriceCorrect (){
-        return getSubtotalPricesCalculated() == getIntFromPrice(subtotalText.getText());
-    }
+//
+//    public int getSubtotalPricesCalculated (){
+//        int sum = 0;
+//        for (WebElementFacade element: listOfSubtotalPrices){
+//            sum += getIntFromPrice(element.getText());
+//        }
+//        return sum;
+//    }
+//
+//    public boolean isSubtotalPriceCorrect (){
+//        return getSubtotalPricesCalculated() == getIntFromPrice(subtotalText.getText());
+//    }
 }

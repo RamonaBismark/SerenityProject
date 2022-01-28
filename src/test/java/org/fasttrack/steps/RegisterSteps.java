@@ -1,7 +1,7 @@
 package org.fasttrack.steps;
 
 import net.thucydides.core.annotations.Step;
-import net.thucydides.core.annotations.Steps;
+
 
 public class RegisterSteps extends BaseSteps {
 
@@ -21,7 +21,16 @@ public class RegisterSteps extends BaseSteps {
     public void clickRegister() {
         registerPage.clickRegisterButton();
     }
-    
 
+    @Step
+    public void checkUserIsLoggedInOrRegisterSuccessfully(String userName){
+        myAccountPage.checkUserLoggedInOrRegister(userName);
+    }
+
+
+    @Step
+    public void checkErrorMessageAtRegister (String message){
+        registerPage.checkErrorMessageAtRegister(message);
+    }
 
 }

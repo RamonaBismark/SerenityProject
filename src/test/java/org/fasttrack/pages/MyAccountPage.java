@@ -10,7 +10,7 @@ public class MyAccountPage extends BasePage {
 
 
 
-    public void checkUserLoggedIn(String userName) {
-        loginHelloMessageElement.shouldContainOnlyText("Hello, " + userName);
+    public void checkUserLoggedInOrRegister(String userName) {
+        loginHelloMessageElement.shouldContainText("Hello " + userName);
     }
 }

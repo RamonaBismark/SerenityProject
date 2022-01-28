@@ -8,10 +8,10 @@ import org.fasttrack.steps.CartSteps;
 import org.fasttrack.steps.LoginSteps;
 import org.fasttrack.steps.RegisterSteps;
 import org.fasttrack.steps.SearchSteps;
+import org.fasttrack.utils.EnvConstants;
 import org.junit.Before;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
-import utils.EnvConstants;
 
 
 @RunWith(SerenityRunner.class)

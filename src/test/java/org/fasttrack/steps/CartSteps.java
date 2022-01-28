@@ -2,7 +2,7 @@ package org.fasttrack.steps;
 
 
 import net.thucydides.core.annotations.Step;
-import org.junit.Assert;
+
 
 public class CartSteps extends BaseSteps {
     @Step
@@ -31,8 +31,8 @@ public class CartSteps extends BaseSteps {
         homePage.clickOnCartIcon ();
     }
 
-    @Step
-    public void checkSubtotalPriceIsDisplayedCorrectly(){
-        Assert.assertTrue("The subtotal price is not correct!" , cartPage.isSubtotalPriceCorrect());
-    }
+//    @Step
+//    public void checkSubtotalPriceIsDisplayedCorrectly(){
+//        Assert.assertTrue("The subtotal price is not correct!" , cartPage.isSubtotalPriceCorrect());
+//    }
 }

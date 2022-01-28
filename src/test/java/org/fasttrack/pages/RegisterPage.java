@@ -8,14 +8,17 @@ import java.time.Duration;
 public class RegisterPage extends BasePage{
 
 
-    @FindBy(css = "reg_email")
+    @FindBy(id = "reg_email")
     private WebElementFacade emailField;
 
-    @FindBy (css = "reg_password")
+    @FindBy (id = "reg_password")
     private WebElementFacade passwordField;
 
-    @FindBy (css = ".woocommerce-Button .button")
+    @FindBy (xpath = "//button[@class='woocommerce-Button button'][text()='Register']")
     private WebElementFacade registerButton;
+
+    @FindBy (css = ".woocommerce-error")
+    private WebElementFacade errorMessage;
 
 
 
@@ -33,8 +36,9 @@ public class RegisterPage extends BasePage{
         clickOn(registerButton);
     }
 
-
-
+    public void checkErrorMessageAtRegister(String message) {
+        errorMessage.shouldContainText(message);
+    }
 
 
 

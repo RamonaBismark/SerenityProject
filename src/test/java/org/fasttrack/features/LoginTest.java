@@ -1,7 +1,8 @@
 package org.fasttrack.features;
 
+import org.fasttrack.utils.EnvConstants;
 import org.junit.Test;
-import utils.EnvConstants;
+
 
 public class LoginTest extends BaseTest {
 
@@ -10,7 +11,7 @@ public class LoginTest extends BaseTest {
         loginSteps.navigateToLoginPage();
         loginSteps.enterCredentials(EnvConstants.USER_EMAIL, EnvConstants.USER_PASSWORD);
         loginSteps.clickLogin();
-        loginSteps.checkUserIsLoggedIn(EnvConstants.USER_NAME);
+        loginSteps.checkUserIsLoggedInOrRegisterSuccessfully(EnvConstants.USER_NAME);
     }
 
     @Test
@@ -18,6 +19,7 @@ public class LoginTest extends BaseTest {
         loginSteps.navigateToLoginPage();
         loginSteps.enterCredentials("ramoramoramo@mailinator.com", EnvConstants.USER_PASSWORD);
         loginSteps.clickLogin();
-        loginSteps.checkUserIsLoggedIn(EnvConstants.USER_NAME);
+        loginSteps.checkErrorMessage("ERROR: Invalid email address.");
+
     }
 }

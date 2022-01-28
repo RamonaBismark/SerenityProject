@@ -3,7 +3,7 @@ package org.fasttrack.steps;
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.steps.ScenarioSteps;
 import org.fasttrack.pages.*;
-import utils.EnvConstants;
+import org.fasttrack.utils.EnvConstants;
 
 public class BaseSteps extends ScenarioSteps {
 

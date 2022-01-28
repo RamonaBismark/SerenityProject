@@ -1,7 +1,7 @@
 package org.fasttrack.features;
 
+import org.fasttrack.utils.EnvConstants;
 import org.junit.Test;
-import utils.EnvConstants;
 
 public class SearchTest extends BaseTest {
 

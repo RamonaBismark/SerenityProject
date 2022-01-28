@@ -8,14 +8,17 @@ import java.time.Duration;
 public class LoginPage extends BasePage {
 
 
-    @FindBy(css = "reg_email")
+    @FindBy(id = "username")
     private WebElementFacade emailField;
 
-    @FindBy (css = "reg_password")
+    @FindBy (id = "password")
     private WebElementFacade passwordField;
 
-    @FindBy (css = ".woocommerce-Button .button")
+    @FindBy (xpath = "//button[@class='woocommerce-Button button'][text()='Login']")
     private WebElementFacade loginButton;
+
+    @FindBy (css = ".woocommerce-error")
+    private WebElementFacade errorMessage;
 
 
     public void setEmailField(String email){
@@ -32,5 +35,9 @@ public class LoginPage extends BasePage {
         clickOn(loginButton);
     }
 
+    public void checkErrorMessage(String message){
+        errorMessage.shouldContainText(message);
+
+    }
 
 }

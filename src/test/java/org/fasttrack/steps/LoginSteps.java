@@ -23,8 +23,14 @@ public class LoginSteps extends BaseSteps {
     }
 
     @Step
-    public void checkUserIsLoggedIn(String userName){
-        myAccountPage.checkUserLoggedIn(userName);
+    public void checkUserIsLoggedInOrRegisterSuccessfully(String userName){
+        myAccountPage.checkUserLoggedInOrRegister(userName);
+    }
+
+
+    @Step
+    public void checkErrorMessage(String message){
+        loginPage.checkErrorMessage(message);
     }
 
     @Step
