@@ -1,0 +1,565 @@
+<html lang="en-US"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://qa3.fasttrackit.org:8008/xmlrpc.php">
+
+<title>Sunglasses – FastTrackIT</title>
+<meta name="robots" content="noindex,follow">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="FastTrackIT » Feed" href="http://qa3.fasttrackit.org:8008/feed">
+<link rel="alternate" type="application/rss+xml" title="FastTrackIT » Comments Feed" href="http://qa3.fasttrackit.org:8008/comments/feed">
+<link rel="alternate" type="application/rss+xml" title="FastTrackIT » Sunglasses Comments Feed" href="http://qa3.fasttrackit.org:8008/product/sunglasses/feed">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/qa3.fasttrackit.org:8008\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://qa3.fasttrackit.org:8008/wp-includes/js/wp-emoji-release.min.js?ver=4.9.5" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="photoswipe-css" href="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.css?ver=3.3.5" type="text/css" media="all">
+<link rel="stylesheet" id="photoswipe-default-skin-css" href="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.css?ver=3.3.5" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.3.5" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.3.5" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.3.5" type="text/css" media="all">
+<link rel="stylesheet" id="customizer_topshop_theme_fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3Aregular%2Citalic%2C700|Raleway%3Aregular%2C700%26subset%3Dlatin%2C" type="text/css" media="screen">
+<link rel="stylesheet" id="topshop-google-body-font-default-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic&amp;ver=1.3.14" type="text/css" media="all">
+<link rel="stylesheet" id="topshop-google-heading-font-default-css" href="//fonts.googleapis.com/css?family=Raleway%3A500%2C600%2C700%2C100%2C800%2C400%2C300&amp;ver=1.3.14" type="text/css" media="all">
+<link rel="stylesheet" id="topshop-font-awesome-css" href="http://qa3.fasttrackit.org:8008/wp-content/themes/topshop/includes/font-awesome/css/font-awesome.css?ver=4.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="topshop-style-css" href="http://qa3.fasttrackit.org:8008/wp-content/themes/topshop/style.css?ver=1.3.14" type="text/css" media="all">
+<link rel="stylesheet" id="topshop-woocommerce-style-css" href="http://qa3.fasttrackit.org:8008/wp-content/themes/topshop/templates/css/topshop-woocommerce-style.css?ver=1.3.14" type="text/css" media="all">
+<link rel="stylesheet" id="topshop-header-standard-style-css" href="http://qa3.fasttrackit.org:8008/wp-content/themes/topshop/templates/css/topshop-header-standard.css?ver=1.3.14" type="text/css" media="all">
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<link rel="https://api.w.org/" href="http://qa3.fasttrackit.org:8008/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://qa3.fasttrackit.org:8008/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://qa3.fasttrackit.org:8008/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.5">
+<meta name="generator" content="WooCommerce 3.3.5">
+<link rel="canonical" href="http://qa3.fasttrackit.org:8008/product/sunglasses">
+<link rel="shortlink" href="http://qa3.fasttrackit.org:8008/?p=62">
+<link rel="alternate" type="application/json+oembed" href="http://qa3.fasttrackit.org:8008/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fqa3.fasttrackit.org%3A8008%2Fproduct%2Fsunglasses">
+<link rel="alternate" type="text/xml+oembed" href="http://qa3.fasttrackit.org:8008/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fqa3.fasttrackit.org%3A8008%2Fproduct%2Fsunglasses&amp;format=xml">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	    <style type="text/css" media="screen">
+            </style>
+</head>
+<body class="product-template-default single single-product postid-62 logged-in woocommerce woocommerce-page">
+<div id="page">
+<header id="masthead" class="site-header border-bottom topshop-header-layout-standard" role="banner">
+    
+    
+    
+    <div class="site-top-bar border-bottom">
+        <div class="site-container">
+            
+            <div class="site-top-bar-left">
+                
+                                
+            </div>
+            <div class="site-top-bar-right">
+                
+                                    <div class="site-top-bar-left-text">Call Us: 082 444 BOOM</div>
+                                
+                                    <i class="fa fa-search search-btn"></i>
+                                
+            </div>
+            <div class="clearboth"></div>
+            
+                            <div class="search-block">
+                    <form role="search" method="get" class="search-form" action="http://qa3.fasttrackit.org:8008/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search…" value="" name="s" title="Search for:">
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;">
+</form>                </div>
+                        
+        </div>
+        
+    </div>
+
+
+<div class="site-container">
+    
+    <div class="site-header-left">
+        
+                    <h1 class="site-title"><a href="http://qa3.fasttrackit.org:8008/" title="FastTrackIT">FastTrackIT</a></h1>
+            <h2 class="site-description"></h2>
+                
+    </div><!-- .site-branding -->
+    
+    <div class="site-header-right">
+        
+                                                        <div class="site-header-right-link"><a href="http://qa3.fasttrackit.org:8008/my-account" title="My Account">My Account</a></div>
+                                                        <div class="header-cart">
+                            <a class="header-cart-contents" href="http://qa3.fasttrackit.org:8008/cart" title="View your shopping cart">
+            <span class="header-cart-amount">
+                (4)<span> - 335,00&nbsp;lei</span>
+            </span>
+            <span class="header-cart-checkout cart-has-items">
+                <i class="fa fa-shopping-cart"></i>
+            </span>
+        </a>
+    
+                </div>
+                            
+    </div>
+    <div class="clearboth"></div>
+    
+</div>
+
+<nav id="site-navigation" class="main-navigation " role="navigation">
+    <span class="header-menu-button"><i class="fa fa-bars"></i><span>Menu</span></span>
+    <div id="main-menu" class="main-menu-container">
+        <span class="main-menu-close"><i class="fa fa-angle-right"></i><i class="fa fa-angle-left"></i></span>
+        <div class="site-container">
+            <div class="menu-all-pages-container"><ul id="menu-all-pages" class="menu"><li id="menu-item-1642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1642"><a href="http://qa3.fasttrackit.org:8008/">Home</a></li>
+<li id="menu-item-1643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1643"><a href="http://qa3.fasttrackit.org:8008/blog">Blog</a></li>
+<li id="menu-item-1728" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1728"><a href="http://qa3.fasttrackit.org:8008/shop">Shop</a></li>
+<li id="menu-item-1729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1729"><a href="http://qa3.fasttrackit.org:8008/checkout">Checkout</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="http://qa3.fasttrackit.org:8008/my-account">My account</a></li>
+</ul></div>            <div class="clearboth"></div>
+        </div>
+    </div>
+</nav><!-- #site-navigation -->    
+</header><!-- #masthead -->
+
+
+<div id="content" class="site-content site-container content-has-sidebar ">
+	<div id="primary" class="content-area"><main id="main" class="site-main" role="main"><nav class="woocommerce-breadcrumb"><a href="http://qa3.fasttrackit.org:8008">Home</a>&nbsp;/&nbsp;<a href="http://qa3.fasttrackit.org:8008/product-category/clothing">Clothing</a>&nbsp;/&nbsp;<a href="http://qa3.fasttrackit.org:8008/product-category/clothing/accessories-clothing">Accessories</a>&nbsp;/&nbsp;Sunglasses</nav>
+		
+			
+	<div class="woocommerce-message" role="alert"><a href="http://qa3.fasttrackit.org:8008/cart" class="button wc-forward">View cart</a> “Sunglasses” has been added to your cart.</div>
+<div id="product-62" class="post-62 product type-product status-publish has-post-thumbnail product_cat-accessories-clothing first instock featured shipping-taxable purchasable product-type-simple">
+
+	<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 1; transition: opacity 0.25s ease-in-out 0s;"><a href="#" class="woocommerce-product-gallery__trigger">🔍</a>
+	<figure class="woocommerce-product-gallery__wrapper">
+		<div data-thumb="http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2-100x100.jpg" class="woocommerce-product-gallery__image" style="position: relative; overflow: hidden;"><a href="http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2.jpg"><img width="600" height="600" src="http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2-600x600.jpg" class="wp-post-image" alt="" title="sunglasses-2.jpg" data-caption="" data-src="http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2.jpg" data-large_image="http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2.jpg" data-large_image_width="801" data-large_image_height="801" srcset="http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2-600x600.jpg 600w, http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2-150x150.jpg 150w, http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2-300x300.jpg 300w, http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2-768x768.jpg 768w, http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2-100x100.jpg 100w, http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2.jpg 801w" sizes="(max-width: 600px) 100vw, 600px"></a><img src="http://qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/sunglasses-2.jpg" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 801px; height: 801px; border: none; max-width: none; max-height: none;"></div>	</figure>
+</div>
+
+	<div class="summary entry-summary">
+		<h1 class="product_title entry-title">Sunglasses</h1><p class="price"><span class="woocommerce-Price-amount amount">90,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></p>
+<div class="woocommerce-product-details__short-description">
+	<p>This is a simple product.</p>
+</div>
+
+	
+	<form class="cart" action="http://qa3.fasttrackit.org:8008/product/sunglasses" method="post" enctype="multipart/form-data">
+			<div class="quantity">
+		<label class="screen-reader-text" for="quantity_61f823d5c0f06">Quantity</label>
+		<input type="number" id="quantity_61f823d5c0f06" class="input-text qty text" step="1" min="1" max="" name="quantity" value="1" title="Qty" size="4" pattern="[0-9]*" inputmode="numeric" aria-labelledby="">
+	</div>
+	
+		<button type="submit" name="add-to-cart" value="62" class="single_add_to_cart_button button alt">Add to cart</button>
+
+			</form>
+
+	
+<div class="product_meta">
+
+	
+	
+		<span class="sku_wrapper">SKU: <span class="sku">woo-sunglasses</span></span>
+
+	
+	<span class="posted_in">Category: <a href="http://qa3.fasttrackit.org:8008/product-category/clothing/accessories-clothing" rel="tag">Accessories</a></span>
+	
+	
+</div>
+
+	</div>
+
+	
+	<div class="woocommerce-tabs wc-tabs-wrapper">
+		<ul class="tabs wc-tabs" role="tablist">
+							<li class="description_tab active" id="tab-title-description" role="tab" aria-controls="tab-description">
+					<a href="#tab-description">Description</a>
+				</li>
+							<li class="additional_information_tab" id="tab-title-additional_information" role="tab" aria-controls="tab-additional_information">
+					<a href="#tab-additional_information">Additional information</a>
+				</li>
+							<li class="reviews_tab" id="tab-title-reviews" role="tab" aria-controls="tab-reviews">
+					<a href="#tab-reviews">Reviews (0)</a>
+				</li>
+					</ul>
+					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description" style="display: block;">
+				
+  <h2>Description</h2>
+
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+			</div>
+					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--additional_information panel entry-content wc-tab" id="tab-additional_information" role="tabpanel" aria-labelledby="tab-title-additional_information" style="display: none;">
+				
+	<h2>Additional information</h2>
+
+<table class="shop_attributes">
+			<tbody><tr>
+			<th>Weight</th>
+			<td class="product_weight">.2 kg</td>
+		</tr>
+	
+			<tr>
+			<th>Dimensions</th>
+			<td class="product_dimensions">4 x 1.4 x 1 cm</td>
+		</tr>
+	
+	</tbody></table>
+			</div>
+					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content wc-tab" id="tab-reviews" role="tabpanel" aria-labelledby="tab-title-reviews" style="display: none;">
+				<div id="reviews" class="woocommerce-Reviews">
+	<div id="comments">
+		<h2 class="woocommerce-Reviews-title">Reviews</h2>
+
+		
+			<p class="woocommerce-noreviews">There are no reviews yet.</p>
+
+			</div>
+
+	
+		<div id="review_form_wrapper">
+			<div id="review_form">
+					<div id="respond" class="comment-respond">
+		<span id="reply-title" class="comment-reply-title">Be the first to review “Sunglasses” <small><a rel="nofollow" id="cancel-comment-reply-link" href="/product/sunglasses#respond" style="display:none;">Cancel reply</a></small></span>			<form action="http://qa3.fasttrackit.org:8008/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate="">
+				<div class="comment-form-rating"><label for="rating">Your rating</label><p class="stars"><span><a class="star-1" href="#">1</a><a class="star-2" href="#">2</a><a class="star-3" href="#">3</a><a class="star-4" href="#">4</a><a class="star-5" href="#">5</a></span></p><select name="rating" id="rating" aria-required="true" required="" style="display: none;">
+							<option value="">Rate…</option>
+							<option value="5">Perfect</option>
+							<option value="4">Good</option>
+							<option value="3">Average</option>
+							<option value="2">Not that bad</option>
+							<option value="1">Very poor</option>
+						</select></div><p class="comment-form-comment"><label for="comment">Your review <span class="required">*</span></label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" required=""></textarea></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit"> <input type="hidden" name="comment_post_ID" value="62" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p>			</form>
+			</div><!-- #respond -->
+				</div>
+		</div>
+
+	
+	<div class="clear"></div>
+</div>
+			</div>
+			</div>
+
+
+	<section class="related products">
+
+		<h2>Related products</h2>
+
+		<ul class="products columns-4">
+
+			
+				<li class="post-1801 product type-product status-publish product_cat-accessories-clothing first instock shipping-taxable purchasable product-type-simple">
+	<a href="http://qa3.fasttrackit.org:8008/product/produs1-2" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img src="//qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/images/placeholder.png" alt="Placeholder" width="300" class="woocommerce-placeholder wp-post-image" height="300"><h2 class="woocommerce-loop-product__title">produs1</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount">75,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a href="/product/sunglasses?add-to-cart=1801" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1801" data-product_sku="" aria-label="Add “produs1” to your cart" rel="nofollow">Add to cart</a></li>
+
+			
+				<li class="post-1796 product type-product status-publish product_cat-accessories product_cat-accessories-clothing  instock shipping-taxable purchasable product-type-simple">
+	<a href="http://qa3.fasttrackit.org:8008/product/produs1" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img src="//qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/images/placeholder.png" alt="Placeholder" width="300" class="woocommerce-placeholder wp-post-image" height="300"><h2 class="woocommerce-loop-product__title">Produs1</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount">75,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span>
+</a><a href="/product/sunglasses?add-to-cart=1796" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1796" data-product_sku="" aria-label="Add “Produs1” to your cart" rel="nofollow">Add to cart</a></li>
+
+			
+				<li class="post-85 product type-product status-publish has-post-thumbnail product_cat-accessories-clothing  instock sale shipping-taxable purchasable product-type-simple">
+	<a href="http://qa3.fasttrackit.org:8008/product/beanie-with-logo" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+<img width="300" height="300" src="//qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/beanie-with-logo-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="//qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/beanie-with-logo-1-300x300.jpg 300w, //qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/beanie-with-logo-1-150x150.jpg 150w, //qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/beanie-with-logo-1-768x768.jpg 768w, //qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/beanie-with-logo-1-600x600.jpg 600w, //qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/beanie-with-logo-1-100x100.jpg 100w, //qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/beanie-with-logo-1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px"><h2 class="woocommerce-loop-product__title">Beanie with Logo</h2>
+	<span class="price"><del><span class="woocommerce-Price-amount amount">20,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></del> <ins><span class="woocommerce-Price-amount amount">18,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></ins></span>
+</a><a href="/product/sunglasses?add-to-cart=85" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="85" data-product_sku="Woo-beanie-logo" aria-label="Add “Beanie with Logo” to your cart" rel="nofollow">Add to cart</a></li>
+
+			
+				<li class="post-60 product type-product status-publish has-post-thumbnail product_cat-accessories-clothing last instock sale featured shipping-taxable purchasable product-type-simple">
+	<a href="http://qa3.fasttrackit.org:8008/product/cap" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+<img width="300" height="300" src="//qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/cap-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="//qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/cap-2-300x300.jpg 300w, //qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/cap-2-150x150.jpg 150w, //qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/cap-2-768x768.jpg 768w, //qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/cap-2-600x600.jpg 600w, //qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/cap-2-100x100.jpg 100w, //qa3.fasttrackit.org:8008/wp-content/uploads/2018/04/cap-2.jpg 801w" sizes="(max-width: 300px) 100vw, 300px"><h2 class="woocommerce-loop-product__title">Cap</h2>
+	<span class="price"><del><span class="woocommerce-Price-amount amount">18,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></del> <ins><span class="woocommerce-Price-amount amount">16,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></ins></span>
+</a><a href="/product/sunglasses?add-to-cart=60" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="60" data-product_sku="woo-cap" aria-label="Add “Cap” to your cart" rel="nofollow">Add to cart</a></li>
+
+			
+		</ul>
+
+	</section>
+
+</div>
+
+
+		
+	</main></div>
+	
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="meta-2" class="widget widget_meta"><h4 class="widget-title">Meta</h4>			<ul>
+			<li><a href="http://qa3.fasttrackit.org:8008/wp-admin/">Site Admin</a></li>			<li><a href="http://qa3.fasttrackit.org:8008/wp-login.php?action=logout&amp;_wpnonce=7e340a7d9a">Log out</a></li>
+			<li><a href="http://qa3.fasttrackit.org:8008/feed">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://qa3.fasttrackit.org:8008/comments/feed">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://qa3.fasttrackit.org:8008/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search…" value="" name="s" title="Search for:">
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;">
+</form></aside><aside id="categories-2" class="widget widget_categories"><h4 class="widget-title">Categories</h4>		<ul>
+	<li class="cat-item cat-item-16"><a href="http://qa3.fasttrackit.org:8008/category/aciform">aciform</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://qa3.fasttrackit.org:8008/category/antiquarianism">antiquarianism</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://qa3.fasttrackit.org:8008/category/arrangement">arrangement</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://qa3.fasttrackit.org:8008/category/asmodeus">asmodeus</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://qa3.fasttrackit.org:8008/category/broder">broder</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://qa3.fasttrackit.org:8008/category/buying">buying</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://qa3.fasttrackit.org:8008/category/cat-a">Cat A</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://qa3.fasttrackit.org:8008/category/cat-b">Cat B</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://qa3.fasttrackit.org:8008/category/cat-c">Cat C</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://qa3.fasttrackit.org:8008/category/championship">championship</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://qa3.fasttrackit.org:8008/category/chastening">chastening</a>
+</li>
+	<li class="cat-item cat-item-71"><a href="http://qa3.fasttrackit.org:8008/category/parent/child-1">Child 1</a>
+</li>
+	<li class="cat-item cat-item-72"><a href="http://qa3.fasttrackit.org:8008/category/parent/child-1/child-2">Child 2</a>
+</li>
+	<li class="cat-item cat-item-73"><a href="http://qa3.fasttrackit.org:8008/category/parent-category/child-category-01" title="This is a description for the Child Category 01.">Child Category 01</a>
+</li>
+	<li class="cat-item cat-item-74"><a href="http://qa3.fasttrackit.org:8008/category/parent-category/child-category-02" title="This is a description for the Child Category 02.">Child Category 02</a>
+</li>
+	<li class="cat-item cat-item-75"><a href="http://qa3.fasttrackit.org:8008/category/parent-category/child-category-03" title="This is a description for the Child Category 03.">Child Category 03</a>
+</li>
+	<li class="cat-item cat-item-76"><a href="http://qa3.fasttrackit.org:8008/category/parent-category/child-category-04" title="This is a description for the Child Category 04.">Child Category 04</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="http://qa3.fasttrackit.org:8008/category/parent-category/child-category-05" title="This is a description for the Child Category 05.">Child Category 05</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://qa3.fasttrackit.org:8008/category/clerkship">clerkship</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://qa3.fasttrackit.org:8008/category/disinclination">disinclination</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://qa3.fasttrackit.org:8008/category/disinfection">disinfection</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://qa3.fasttrackit.org:8008/category/dispatch">dispatch</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://qa3.fasttrackit.org:8008/category/echappee">echappee</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://qa3.fasttrackit.org:8008/category/edge-case-2" title="Posts that have edge-case related tests">Edge Case</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://qa3.fasttrackit.org:8008/category/enphagy">enphagy</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://qa3.fasttrackit.org:8008/category/equipollent">equipollent</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://qa3.fasttrackit.org:8008/category/fatuity">fatuity</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://qa3.fasttrackit.org:8008/category/foo-a">Foo A</a>
+</li>
+	<li class="cat-item cat-item-78"><a href="http://qa3.fasttrackit.org:8008/category/foo-parent/foo-a-foo-parent">Foo A</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://qa3.fasttrackit.org:8008/category/foo-parent">Foo Parent</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://qa3.fasttrackit.org:8008/category/gaberlunzie">gaberlunzie</a>
+</li>
+	<li class="cat-item cat-item-79"><a href="http://qa3.fasttrackit.org:8008/category/parent-category/child-category-03/grandchild-category" title="This is a description for the Grandchild Category.">Grandchild Category</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://qa3.fasttrackit.org:8008/category/illtempered">illtempered</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://qa3.fasttrackit.org:8008/category/insubordination">insubordination</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://qa3.fasttrackit.org:8008/category/lender">lender</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://qa3.fasttrackit.org:8008/category/markup" title="Posts in this category test markup tags and styles.">Markup</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://qa3.fasttrackit.org:8008/category/media-2" title="Posts that have media-related tests">Media</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://qa3.fasttrackit.org:8008/category/monosyllable">monosyllable</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://qa3.fasttrackit.org:8008/category/packthread">packthread</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://qa3.fasttrackit.org:8008/category/palter">palter</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://qa3.fasttrackit.org:8008/category/papilionaceous">papilionaceous</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="http://qa3.fasttrackit.org:8008/category/parent">Parent</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://qa3.fasttrackit.org:8008/category/parent-category" title="This is a parent category. It will contain child categories">Parent Category</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="http://qa3.fasttrackit.org:8008/category/personable">personable</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://qa3.fasttrackit.org:8008/category/post-formats" title="Posts in this category test post formats.">Post Formats</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="http://qa3.fasttrackit.org:8008/category/propylaeum">propylaeum</a>
+</li>
+	<li class="cat-item cat-item-54"><a href="http://qa3.fasttrackit.org:8008/category/pustule">pustule</a>
+</li>
+	<li class="cat-item cat-item-55"><a href="http://qa3.fasttrackit.org:8008/category/quartern">quartern</a>
+</li>
+	<li class="cat-item cat-item-56"><a href="http://qa3.fasttrackit.org:8008/category/scholarship">scholarship</a>
+</li>
+	<li class="cat-item cat-item-57"><a href="http://qa3.fasttrackit.org:8008/category/selfconvicted">selfconvicted</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://qa3.fasttrackit.org:8008/category/showshoe">showshoe</a>
+</li>
+	<li class="cat-item cat-item-59"><a href="http://qa3.fasttrackit.org:8008/category/sloyd">sloyd</a>
+</li>
+	<li class="cat-item cat-item-60"><a href="http://qa3.fasttrackit.org:8008/category/aciform/sub">sub</a>
+</li>
+	<li class="cat-item cat-item-61"><a href="http://qa3.fasttrackit.org:8008/category/sublunary">sublunary</a>
+</li>
+	<li class="cat-item cat-item-62"><a href="http://qa3.fasttrackit.org:8008/category/tamtam">tamtam</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="http://qa3.fasttrackit.org:8008/category/template-2" title="Posts with template-related tests">Template</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://qa3.fasttrackit.org:8008/category/uncategorized">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-64"><a href="http://qa3.fasttrackit.org:8008/category/unpublished" title="Posts in this category test unpublished posts.">Unpublished</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://qa3.fasttrackit.org:8008/category/weakhearted">weakhearted</a>
+</li>
+	<li class="cat-item cat-item-66"><a href="http://qa3.fasttrackit.org:8008/category/ween">ween</a>
+</li>
+	<li class="cat-item cat-item-67"><a href="http://qa3.fasttrackit.org:8008/category/wellhead">wellhead</a>
+</li>
+	<li class="cat-item cat-item-68"><a href="http://qa3.fasttrackit.org:8008/category/wellintentioned">wellintentioned</a>
+</li>
+	<li class="cat-item cat-item-69"><a href="http://qa3.fasttrackit.org:8008/category/whetstone">whetstone</a>
+</li>
+	<li class="cat-item cat-item-70"><a href="http://qa3.fasttrackit.org:8008/category/years">years</a>
+</li>
+		</ul>
+</aside></div><!-- #secondary -->
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer " role="contentinfo">
+	
+    <div class="site-footer-widgets">
+        <div class="site-container">
+            <ul>
+                            </ul>
+            <div class="clearboth"></div>
+            
+			</div></div><div class="site-footer-bottom-bar"><div class="site-container"><div class="site-footer-bottom-bar-left">Theme: TopShop by <a href="https://kairaweb.com/">Kaira</a></div><div class="site-footer-bottom-bar-right">            
+            Proudly powered by <a href="http://wordpress.org/">WordPress</a>
+            
+	        </div>
+	    </div>
+		
+        <div class="clearboth"></div>
+	</div>
+	
+</footer> <!-- .site-footer -->
+</div>  <!-- #page -->
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@graph":[{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":"1","item":{"name":"Home","@id":"http:\/\/qa3.fasttrackit.org:8008"}},{"@type":"ListItem","position":"2","item":{"name":"Clothing","@id":"http:\/\/qa3.fasttrackit.org:8008\/product-category\/clothing"}},{"@type":"ListItem","position":"3","item":{"name":"Accessories","@id":"http:\/\/qa3.fasttrackit.org:8008\/product-category\/clothing\/accessories-clothing"}},{"@type":"ListItem","position":"4","item":{"name":"Sunglasses"}}]},{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"http:\/\/qa3.fasttrackit.org:8008\/product\/sunglasses","name":"Sunglasses","image":"http:\/\/qa3.fasttrackit.org:8008\/wp-content\/uploads\/2018\/04\/sunglasses-2.jpg","description":"This is a simple product.","sku":"woo-sunglasses","offers":[{"@type":"Offer","price":"90.00","priceCurrency":"RON","availability":"https:\/\/schema.org\/InStock","url":"http:\/\/qa3.fasttrackit.org:8008\/product\/sunglasses","seller":{"@type":"Organization","name":"FastTrackIT","url":"http:\/\/qa3.fasttrackit.org:8008"}}]}]}</script>
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+	<!-- Background of PhotoSwipe. It's a separate element as animating opacity is faster than rgba(). -->
+	<div class="pswp__bg"></div>
+
+	<!-- Slides wrapper with overflow:hidden. -->
+	<div class="pswp__scroll-wrap">
+
+		<!-- Container that holds slides.
+		PhotoSwipe keeps only 3 of them in the DOM to save memory.
+		Don't modify these 3 pswp__item elements, data is added later on. -->
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+
+		<!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+		<div class="pswp__ui pswp__ui--hidden">
+
+			<div class="pswp__top-bar">
+
+				<!--  Controls are self-explanatory. Order can be changed. -->
+
+				<div class="pswp__counter"></div>
+
+				<button class="pswp__button pswp__button--close" aria-label="Close (Esc)"></button>
+
+				<button class="pswp__button pswp__button--share" aria-label="Share"></button>
+
+				<button class="pswp__button pswp__button--fs" aria-label="Toggle fullscreen"></button>
+
+				<button class="pswp__button pswp__button--zoom" aria-label="Zoom in/out"></button>
+
+				<!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+				<!-- element will get class pswp__preloader--active when preloader is running -->
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div>
+			</div>
+
+			<button class="pswp__button pswp__button--arrow--left" aria-label="Previous (arrow left)"></button>
+
+			<button class="pswp__button pswp__button--arrow--right" aria-label="Next (arrow right)"></button>
+
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/qa3.fasttrackit.org:8008\/cart","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.3.5"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.15"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.6.1"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=3.3.5"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.3.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_0bc92ff27ee9c1fd042ba09068a34867","fragment_name":"wc_fragments_0bc92ff27ee9c1fd042ba09068a34867"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.3.5"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/themes/topshop/js/navigation.js?ver=1.3.14"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/themes/topshop/js/jquery.carouFredSel-6.2.1-packed.js?ver=1.3.14"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/themes/topshop/js/custom.js?ver=1.3.14"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-content/themes/topshop/js/skip-link-focus-fix.js?ver=1.3.14"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-includes/js/comment-reply.min.js?ver=4.9.5"></script>
+<script type="text/javascript" src="http://qa3.fasttrackit.org:8008/wp-includes/js/wp-embed.min.js?ver=4.9.5"></script>
+
+</body></html>
