@@ -12,10 +12,13 @@ public class HomePage extends BasePage{
     private WebElementFacade loginLink;
 
 
-    @FindBy(id = "search-2")
+    @FindBy(css = ".fa.fa-search.search-btn")
+    private WebElementFacade searchMiniIcon;
+
+    @FindBy (css = ".search-field")
     private WebElementFacade searchField;
 
-    @FindBy(css =".fa.fa-search.search-btn")
+    @FindBy(css =".search-block .search-submit")
     private WebElementFacade searchIcon;
 
     @FindBy (css= ".fa.fa-shopping-cart")
@@ -32,6 +35,7 @@ public class HomePage extends BasePage{
     }
 
     public void setSearchField(String value){
+        clickOn(searchMiniIcon);
         typeInto(searchField,value);
     }
 

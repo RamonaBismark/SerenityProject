@@ -8,7 +8,7 @@ public class CartTest extends BaseTest {
     @Test
     public void addToCartTest (){
         loginSteps.doLogin(EnvConstants.USER_EMAIL,EnvConstants.USER_PASSWORD);
-        searchSteps.searchAndSelectProduct("BELT");
+        searchSteps.searchAndSelectProduct("SUNGLASSES");
         cartSteps.clickAddProductToCart();
     }
 
@@ -19,15 +19,19 @@ public class CartTest extends BaseTest {
         cartSteps.clickAddProductToCart();
         searchSteps.searchAndSelectProduct("SUNGLASSES");
         cartSteps.clickAddProductToCart();
-  //      cartSteps.checkSubtotalPriceIsDisplayedCorrectly();
+        cartSteps.clickOnViewShoppingCart();
+
+        cartSteps.checkSubtotalPriceIsDisplayedCorrectly();
 
     }
 
     @Test
     public void removeFromCartProduct (){
         loginSteps.doLogin(EnvConstants.USER_EMAIL,EnvConstants.USER_PASSWORD);
+        searchSteps.searchAndSelectProduct("SUNGLASSES");
+        cartSteps.clickAddProductToCart();
         cartSteps.clickOnShoppingCart();
-        cartSteps.clickOnRemoveFromCartButton();
+        cartSteps.removeProductFromCart("SUNGLASSES");
     }
 
 

@@ -20,6 +20,18 @@ public class LoginTest extends BaseTest {
         loginSteps.enterCredentials("ramoramoramo@mailinator.com", EnvConstants.USER_PASSWORD);
         loginSteps.clickLogin();
         loginSteps.checkErrorMessage("ERROR: Invalid email address.");
+    }
+
+    @Test
+    public void forgotPasswordTest(){
+        loginSteps.navigateToLoginPage();
+        loginSteps.clickLostPassword();
+        loginSteps.enterEmail(EnvConstants.USER_EMAIL);
+        loginSteps.clickResetPassword();
 
     }
+
+
+
+
 }

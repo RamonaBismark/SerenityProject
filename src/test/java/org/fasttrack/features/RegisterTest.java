@@ -15,7 +15,6 @@ public class RegisterTest extends BaseTest{
         registerSteps.enterCredentials(randomName, EnvConstants.USER_PASSWORD);
         registerSteps.clickRegister();
         registerSteps.checkUserIsLoggedInOrRegisterSuccessfully(username);
-
     }
 
     @Test

@@ -10,14 +10,13 @@ public class ProductPage extends BasePage{
     private WebElementFacade addToCartButton;
 
     @FindBy(css = ".fa-shopping-cart")
-    private WebElementFacade clickOnCartButton;
+    private WebElementFacade viewShoppingCartButton;
 
     @FindBy(css = ".woocommerce table.cart a.remove")
     private WebElementFacade removeProductFromCart;
 
-    @FindBy (css = ".woocommerce-message .button")
-    private WebElementFacade viewShoppingCart;
-
+    @FindBy (css= ".checkout-button")
+    private WebElementFacade proceedToCheckoutButton;
 
 
     public void clickAddToCartButton(){
@@ -25,16 +24,20 @@ public class ProductPage extends BasePage{
     }
 
     public void clickOnShoppingCart() {
-        clickOn (clickOnCartButton);
+        clickOn (viewShoppingCartButton);
     }
+
+
+    public void clickOnProceedToCheckoutButton(){
+        clickOn(proceedToCheckoutButton);
+    }
+
 
     public void clickOnRemoveFromCartButton() {
         clickOn(removeProductFromCart);
     }
 
-    public void clickOnViewShoppingCart() {
-        clickOn(viewShoppingCart);
-    }
+
 
 
 }

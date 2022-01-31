@@ -20,6 +20,12 @@ public class LoginPage extends BasePage {
     @FindBy (css = ".woocommerce-error")
     private WebElementFacade errorMessage;
 
+    @FindBy (css = ".woocommerce-LostPassword")
+    private WebElementFacade lostPasswordField;
+
+    @FindBy (css = ".button")
+    private WebElementFacade resetPasswordButton;
+
 
     public void setEmailField(String email){
         waitFor(emailField);
@@ -37,7 +43,15 @@ public class LoginPage extends BasePage {
 
     public void checkErrorMessage(String message){
         errorMessage.shouldContainText(message);
+    }
 
+ //   --------------
+    public void clickLostPasswordButton(){
+        clickOn(lostPasswordField);
+    }
+
+    public void clickResetPasswordButton(){
+        clickOn(resetPasswordButton);
     }
 
 }

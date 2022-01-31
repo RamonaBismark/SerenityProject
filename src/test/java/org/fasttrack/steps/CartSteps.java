@@ -2,6 +2,7 @@ package org.fasttrack.steps;
 
 
 import net.thucydides.core.annotations.Step;
+import org.junit.Assert;
 
 
 public class CartSteps extends BaseSteps {
@@ -22,7 +23,12 @@ public class CartSteps extends BaseSteps {
 
     @Step
     public void clickOnViewShoppingCart(){
-        productPage.clickOnViewShoppingCart();
+        productPage.clickOnShoppingCart();
+    }
+
+    @Step
+    public void clickOnProceedToCheckOutButton(){
+        productPage.clickOnProceedToCheckoutButton();
     }
 
 
@@ -31,8 +37,15 @@ public class CartSteps extends BaseSteps {
         homePage.clickOnCartIcon ();
     }
 
-//    @Step
-//    public void checkSubtotalPriceIsDisplayedCorrectly(){
-//        Assert.assertTrue("The subtotal price is not correct!" , cartPage.isSubtotalPriceCorrect());
-//    }
+    @Step
+    public void checkSubtotalPriceIsDisplayedCorrectly(){
+        Assert.assertTrue("The subtotal price is not correct!" , cartPage.isSubtotalPriceCorrect());
+    }
+
+    @Step
+    public void removeProductFromCart (String productName){
+        Assert.assertTrue(cartPage.removeProduct(productName));
+    }
+
+
 }

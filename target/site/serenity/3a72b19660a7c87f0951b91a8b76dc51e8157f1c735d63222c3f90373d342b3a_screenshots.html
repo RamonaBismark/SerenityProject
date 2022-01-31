@@ -154,7 +154,7 @@
             <a href="2a4631d87648e59c428d4cf0e9247f9d286e4679f436ca2ce872e931eb4dfd58.html"><i class="fa fa-comments-o"></i> Stories</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 27-01-2022 19:27</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 31-01-2022 20:48</span>
     <br style="clear:left"/>
 </div>
 
@@ -214,7 +214,7 @@
         <div class="table">
             <div class="row">
                 <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
-                    <span class="error-message error-message-title">Timeout exception: Expected condition failed: waiting for net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$502/0x0000000800faa9a0@3520958b (tried for 5 second(s) with 50 milliseconds interval)Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'System info: host: 'DESKTOP-59ALR1L', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'Driver info: driver.version: unknown</span>
+                    <span class="error-message error-message-title">Number format exception: For input string: '19500 lei'</span>
                 </div>
                 <div class="col-sm-2">
                     <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-overall""
@@ -230,11 +230,11 @@
         <div class="collapse multi-collapse" id="stacktraceModal-overall">
             <div class="card">
                 <div class="card-header">
-                    <h4>org.openqa.selenium.TimeoutException </h4>
+                    <h4>java.lang.NumberFormatException </h4>
                 </div>
                 <div class="card-body">
                     <div>
-                        <pre>org.fasttrack.pages.LoginPage.setEmailField(LoginPage.java:22)<br />org.fasttrack.steps.LoginSteps.enterCredentials(LoginSteps.java:16)<br />org.fasttrack.steps.LoginSteps.doLogin(LoginSteps.java:33)<br />org.fasttrack.features.CartTest.checkCartTotalSummaryTest(CartTest.java:17)<br /></pre>
+                        <pre>org.fasttrack.pages.BasePage.getIntFromPrice(BasePage.java:8)<br />org.fasttrack.pages.CartPage.getSubtotalPricesCalculated(CartPage.java:24)<br />org.fasttrack.pages.CartPage.isSubtotalPriceCorrect(CartPage.java:30)<br />org.fasttrack.steps.CartSteps.checkSubtotalPriceIsDisplayedCorrectly(CartSteps.java:42)<br />org.fasttrack.features.CartTest.checkCartTotalSummaryTest(CartTest.java:23)<br /></pre>
                     </div>
 
                 </div>
@@ -244,16 +244,33 @@
 
 
                 <div class="panel-body">
-                    <a href="pagesource18222609404104947747.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                    <a href="pagesource3357005299731617842.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
                 </div>
             </div>
         <div class="slider-wrapper theme-default">
             <div id="slider">
-                <img src="5ee99e570e20b0eac584df02ff019d337ce1914b35c96448c74f7c25c7b32f3c.png" title=" Do login: ramonaramonaramona@mailinator.com, RamoRamo12345." width="1920"/>
-                <img src="5ee99e570e20b0eac584df02ff019d337ce1914b35c96448c74f7c25c7b32f3c.png" title=" Navigate to login page" width="1920"/>
-                <img src="c64633d88b78e356e1596004c45a9c78db62fb7472f6a3b48dd39ba665da1996.png" title=" Navigate to login page (completed)" width="1920"/>
-                <img src="c64633d88b78e356e1596004c45a9c78db62fb7472f6a3b48dd39ba665da1996.png" title=" Enter credentials: ramonaramonaramona@mailinator.com, RamoRamo12345." width="1920"/>
-                <img src="f3396e1478f2f86b0e3bb639284d917d1388bbf2c4e610671c5755e42a246a5d.png" title=" Enter credentials: ramonaramonaramona@mailinator.com, RamoRamo12345. (completed): <span class='error-color'>ERROR</span>" width="1920"/>
+                <img src="a385b72982448b9b3252d67b0a370fc268abd0c56e6204ba92568056904f0c08.png" title=" Do login: ramonaramona@mailinator.com, RamoRamo12345." width="1920"/>
+                <img src="a385b72982448b9b3252d67b0a370fc268abd0c56e6204ba92568056904f0c08.png" title=" Navigate to login page" width="1920"/>
+                <img src="88f218efe1ca3c247e9dd720e0f1860f836a3f8046c1eb6601c808d0c8d1348d.png" title=" Navigate to login page (completed)" width="1920"/>
+                <img src="88f218efe1ca3c247e9dd720e0f1860f836a3f8046c1eb6601c808d0c8d1348d.png" title=" Enter credentials: ramonaramona@mailinator.com, RamoRamo12345." width="1920"/>
+                <img src="0c01ab9662f16d0318cf5e0e374f69f25253a55f6e4d56a445e9082125b17ed1.png" title=" Enter credentials: ramonaramona@mailinator.com, RamoRamo12345. (completed)" width="1920"/>
+                <img src="0c01ab9662f16d0318cf5e0e374f69f25253a55f6e4d56a445e9082125b17ed1.png" title=" Click login" width="1920"/>
+                <img src="dcfa01867444122a225a1c8e843be4e3e41ca121fe2a0b11e942f95792caefd4.png" title=" Click login (completed)" width="1920"/>
+                <img src="dcfa01867444122a225a1c8e843be4e3e41ca121fe2a0b11e942f95792caefd4.png" title=" Do login: ramonaramona@mailinator.com, RamoRamo12345. (completed)" width="1920"/>
+                <img src="337718aa6c4f37a4f068b66cbc31d2de0c46e97824d03a00dccfb75bdad2f0c4.png" title=" Search and select product: BELT" width="1920"/>
+                <img src="337718aa6c4f37a4f068b66cbc31d2de0c46e97824d03a00dccfb75bdad2f0c4.png" title=" Execute search: BELT" width="1920"/>
+                <img src="337718aa6c4f37a4f068b66cbc31d2de0c46e97824d03a00dccfb75bdad2f0c4.png" title=" Find and open product: BELT" width="1920"/>
+                <img src="f6b3c7fc51259441d80f3411f27e03f29c6014b8a82fbb2a693bd7245b0c8b32.png" title=" Find and open product: BELT (completed)" width="1920"/>
+                <img src="f6b3c7fc51259441d80f3411f27e03f29c6014b8a82fbb2a693bd7245b0c8b32.png" title=" Search and select product: BELT (completed)" width="1920"/>
+                <img src="686d1731b67e7850c87b72885e772280d883d28e6ce6cfa8783eab4f33656261.png" title=" Click add product to cart" width="1920"/>
+                <img src="51c602349f5a2fe861dcbdafde6bd34119ac91e2371b6fa50a9ce24ac37ddb91.png" title=" Search and select product: SUNGLASSES" width="1920"/>
+                <img src="51c602349f5a2fe861dcbdafde6bd34119ac91e2371b6fa50a9ce24ac37ddb91.png" title=" Execute search: SUNGLASSES" width="1920"/>
+                <img src="51c602349f5a2fe861dcbdafde6bd34119ac91e2371b6fa50a9ce24ac37ddb91.png" title=" Find and open product: SUNGLASSES" width="1920"/>
+                <img src="a9332238b8ca9679d9417768174bb0ddbc89cd47182febb3ae1832b27ce3315b.png" title=" Find and open product: SUNGLASSES (completed)" width="1920"/>
+                <img src="a9332238b8ca9679d9417768174bb0ddbc89cd47182febb3ae1832b27ce3315b.png" title=" Search and select product: SUNGLASSES (completed)" width="1920"/>
+                <img src="37029ec6b69e806e51bcd59ab94bbed9801cfd6f4153f266b2b5425cb4b94f9c.png" title=" Click add product to cart" width="1920"/>
+                <img src="0dfb3744a045ef6f24d7b806ced87157623fba901613df53881b3dc7e7f66cda.png" title=" Click on view shopping cart" width="1920"/>
+                <img src="0dfb3744a045ef6f24d7b806ced87157623fba901613df53881b3dc7e7f66cda.png" title=" Check subtotal price is displayed correctly: <span class='error-color'>ERROR</span>" width="1920"/>
             </div>
         </div>
 

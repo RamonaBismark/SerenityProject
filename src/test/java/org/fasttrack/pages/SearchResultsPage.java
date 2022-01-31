@@ -8,7 +8,7 @@ import java.util.List;
 
 public class SearchResultsPage extends BasePage {
 
-    @FindBy (css = "")
+    @FindBy (css = ".content-area")
     private List<WebElementFacade> listOfProducts;
 
 
@@ -17,7 +17,7 @@ public class SearchResultsPage extends BasePage {
     public boolean openProduct(String name){
         waitFor(listOfProducts.get(0));
         for (WebElementFacade element : listOfProducts){
-            if (element.findElement(By.cssSelector(".product-name a")).getText().equalsIgnoreCase(name)){
+            if (element.findElement(By.cssSelector(".entry-title a")).getText().equalsIgnoreCase(name)){
                 element.findElement(By.cssSelector("a")).click();
                 return true;
             }

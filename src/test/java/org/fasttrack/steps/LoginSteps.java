@@ -1,6 +1,7 @@
 package org.fasttrack.steps;
 
 import net.thucydides.core.annotations.Step;
+import org.yecht.Data;
 
 public class LoginSteps extends BaseSteps {
 
@@ -15,6 +16,11 @@ public class LoginSteps extends BaseSteps {
     public void enterCredentials(String email, String pass){
         loginPage.setEmailField(email);
         loginPage.setPasswordField(pass);
+    }
+
+    @Step
+    public void enterEmail(String email){
+        loginPage.setEmailField(email);
     }
 
     @Step
@@ -38,5 +44,15 @@ public class LoginSteps extends BaseSteps {
         navigateToLoginPage();
         enterCredentials(user,pass);
         clickLogin();
+    }
+
+    @Step
+    public void clickLostPassword(){
+        loginPage.clickLostPasswordButton();
+    }
+
+    @Step
+    public void clickResetPassword(){
+        loginPage.clickResetPasswordButton();
     }
 }
