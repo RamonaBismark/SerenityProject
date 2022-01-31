@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.fasttrack.features.CartTest" skipped="0" tests="1" time="27.36" timestamp="2022-01-31 08:48:35"><testcase classname="org.fasttrack.features.CartTest" name="Check cart total summary test"><error message="For input string: &quot;19500 lei&quot;" type="java.lang.NumberFormatException">For input string: "19500 lei"</error><system-err>For input string: "19500 lei"&#13;
-org.fasttrack.pages.BasePage.getIntFromPrice(BasePage.java:8)&#13;
-org.fasttrack.pages.CartPage.getSubtotalPricesCalculated(CartPage.java:24)&#13;
-org.fasttrack.pages.CartPage.isSubtotalPriceCorrect(CartPage.java:30)&#13;
-org.fasttrack.steps.CartSteps.checkSubtotalPriceIsDisplayedCorrectly(CartSteps.java:42)&#13;
-org.fasttrack.features.CartTest.checkCartTotalSummaryTest(CartTest.java:23)&#13;
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.fasttrack.features.CartTest" skipped="0" tests="1" time="27.41" timestamp="2022-01-31 08:59:00"><testcase classname="org.fasttrack.features.CartTest" name="Check cart total summary test"/></testsuite>

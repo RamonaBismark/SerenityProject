@@ -20,7 +20,6 @@ public class CartTest extends BaseTest {
         searchSteps.searchAndSelectProduct("SUNGLASSES");
         cartSteps.clickAddProductToCart();
         cartSteps.clickOnViewShoppingCart();
-
         cartSteps.checkSubtotalPriceIsDisplayedCorrectly();
 
     }
