@@ -16,10 +16,7 @@ public class CartSteps extends BaseSteps {
         productPage.clickOnShoppingCart();
     }
 
-    @Step
-    public void clickOnRemoveFromCartButton(){
-        productPage.clickOnRemoveFromCartButton();
-    }
+
 
     @Step
     public void clickOnViewShoppingCart(){
@@ -27,15 +24,11 @@ public class CartSteps extends BaseSteps {
     }
 
     @Step
-    public void clickOnProceedToCheckOutButton(){
+    public void clickOnProceedToCheckOut(){
         productPage.clickOnProceedToCheckoutButton();
     }
 
 
-    @Step
-    public void navigateToCart (){
-        homePage.clickOnCartIcon ();
-    }
 
     @Step
     public void checkSubtotalPriceIsDisplayedCorrectly(){

@@ -21,7 +21,6 @@ public class CartTest extends BaseTest {
         cartSteps.clickAddProductToCart();
         cartSteps.clickOnViewShoppingCart();
         cartSteps.checkSubtotalPriceIsDisplayedCorrectly();
-
     }
 
     @Test
@@ -32,6 +31,8 @@ public class CartTest extends BaseTest {
         cartSteps.clickOnShoppingCart();
         cartSteps.removeProductFromCart("SUNGLASSES");
     }
+
+
 
 
 }

@@ -24,6 +24,11 @@ public class LoginSteps extends BaseSteps {
     }
 
     @Step
+    public void enterPassword(String password){
+        loginPage.setPasswordField(password);
+    }
+
+    @Step
     public void clickLogin(){
         loginPage.clickLoginButton();
     }

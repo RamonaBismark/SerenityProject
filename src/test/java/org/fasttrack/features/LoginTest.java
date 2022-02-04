@@ -28,8 +28,26 @@ public class LoginTest extends BaseTest {
         loginSteps.clickLostPassword();
         loginSteps.enterEmail(EnvConstants.USER_EMAIL);
         loginSteps.clickResetPassword();
+    }
+
+    @Test
+    public void loginOnlyWithEmail(){
+        loginSteps.navigateToLoginPage();
+        loginSteps.enterEmail("ramonaramona@mailinator.com");
+        loginSteps.clickLogin();
+        loginSteps.checkErrorMessage("ERROR: The password field is empty.");
+    }
+
+    @Test
+    public void loginOnlyWithPassword(){
+        loginSteps.navigateToLoginPage();
+        loginSteps.enterPassword("RamoRamo12345.");
+        loginSteps.clickLogin();
+        loginSteps.checkErrorMessage("Error: Username is required.");
 
     }
+
+
 
 
 

@@ -14,6 +14,8 @@ public class BaseSteps extends ScenarioSteps {
     public MyAccountPage myAccountPage;
     public SearchResultsPage searchResultsPage;
     public CartPage cartPage;
+    public CheckoutPage checkoutPage;
+    public BlogPage blogPage;
 
 
     @Step

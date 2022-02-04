@@ -4,10 +4,7 @@ import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Managed;
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.annotations.Steps;
-import org.fasttrack.steps.CartSteps;
-import org.fasttrack.steps.LoginSteps;
-import org.fasttrack.steps.RegisterSteps;
-import org.fasttrack.steps.SearchSteps;
+import org.fasttrack.steps.*;
 import org.fasttrack.utils.EnvConstants;
 import org.junit.Before;
 import org.junit.runner.RunWith;
@@ -43,7 +40,17 @@ import org.openqa.selenium.WebDriver;
         @Steps
     protected CartSteps cartSteps;
 
+        @Steps
+    protected ShopSteps shopSteps;
 
+        @Steps
+    protected CheckoutSteps checkoutSteps;
+
+        @Steps
+    protected BlogSteps blogSteps;
+
+        @Steps
+    protected MyAccountSteps myAccountSteps;
 
 
 
