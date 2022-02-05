@@ -5,7 +5,7 @@ import org.fasttrack.utils.EnvConstants;
 import org.junit.Test;
 
 
-public class RegisterTest extends BaseTest{
+public class RegisterTest extends BaseTest {
 
     @Test
     public void registerWithEmailAndPasswordTest() {

@@ -54,6 +54,11 @@ public class CheckoutSteps extends BaseSteps{
     }
 
     @Step
+    public void checkOrderDetails (){
+        checkoutPage.waitForOrderDetails();
+    }
+
+    @Step
     public void checkErrorMessage(String message){
         checkoutPage.checkErrorMessage(message);
     }

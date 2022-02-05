@@ -26,8 +26,9 @@ public class LoginTest extends BaseTest {
     public void forgotPasswordTest(){
         loginSteps.navigateToLoginPage();
         loginSteps.clickLostPassword();
-        loginSteps.enterEmail(EnvConstants.USER_EMAIL);
-        loginSteps.clickResetPassword();
+        myAccountSteps.enterEmailAddress("sausausau@mailinator.com");
+        myAccountSteps.clickResetPassword();
+        myAccountSteps.checkDetailsMessage("Password reset email has been sent.");
     }
 
     @Test

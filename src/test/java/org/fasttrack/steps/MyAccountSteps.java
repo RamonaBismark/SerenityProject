@@ -40,9 +40,22 @@ public class MyAccountSteps extends BaseSteps {
     }
 
     @Step
-    public void checkAddressSuccessfullyChangedMessage(String message){
-        myAccountPage.checkAddressIsSuccessfullyChanged(message);
+    public void checkDetailsMessage(String message){
+        myAccountPage.checkDetailsMessage(message);
     }
 
+    @Step
+    public void clickOnLogOutButton(){
+        myAccountPage.clickOnLogOutButton();
+    }
 
-}
+    @Step
+    public void enterEmailAddress(String email){
+        myAccountPage.enterEmailAddress(email);
+    }
+    @Step
+    public void clickResetPassword(){
+        myAccountPage.clickResetPasswordButton();
+    }
+
+    }

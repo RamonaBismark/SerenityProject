@@ -23,7 +23,7 @@ public class BlogSteps extends BaseSteps{
 
     @Step
     public void checkCommentPostedMessage(String message){
-        blogPage.checkCommentSuccessfullPosted(message);
+        blogPage.checkCommentSuccessfulPosted(message);
     }
 
     @Step

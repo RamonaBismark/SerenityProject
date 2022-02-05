@@ -19,7 +19,7 @@ public class BaseSteps extends ScenarioSteps {
 
 
     @Step
-    public void navigateToHomePage (){
+    public void navigateToHomePage() {
         getDriver().get(EnvConstants.BASE_URL);
     }
 

@@ -30,7 +30,16 @@ public class MyAccountPage extends BasePage {
     private WebElementFacade saveAddressButton;
 
     @FindBy(css = ".woocommerce-message")
-    private WebElementFacade addressChangedSuccessfullyMessage;
+    private WebElementFacade detailsMessage;
+
+    @FindBy (css = ".woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--customer-logout")
+    private WebElementFacade logOutButton;
+
+    @FindBy (id = "user_login")
+    private WebElementFacade usernameForgotPassField;
+
+    @FindBy (css = ".woocommerce-Button.button")
+    private WebElementFacade resetPasswordButton;
 
 
     public void checkUserLoggedInOrRegister(String userName) {
@@ -64,9 +73,18 @@ public class MyAccountPage extends BasePage {
         clickOn(saveAddressButton);
     }
 
-    public void checkAddressIsSuccessfullyChanged(String message) {
-        addressChangedSuccessfullyMessage.shouldContainText(message);
+    public void checkDetailsMessage(String message) {
+        detailsMessage.shouldContainText(message);
+    }
+    public void clickOnLogOutButton(){
+        clickOn(logOutButton);
     }
 
+    public void enterEmailAddress(String email){
+        typeInto(usernameForgotPassField, email);
+    }
+    public void clickResetPasswordButton() {
+        clickOn(resetPasswordButton);
+    }
 
 }

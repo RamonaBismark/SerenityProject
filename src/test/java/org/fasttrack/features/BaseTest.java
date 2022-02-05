@@ -2,7 +2,6 @@ package org.fasttrack.features;
 
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Managed;
-import net.thucydides.core.annotations.Step;
 import net.thucydides.core.annotations.Steps;
 import org.fasttrack.steps.*;
 import org.fasttrack.utils.EnvConstants;
@@ -51,7 +50,5 @@ import org.openqa.selenium.WebDriver;
 
         @Steps
     protected MyAccountSteps myAccountSteps;
-
-
 
 }

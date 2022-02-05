@@ -53,11 +53,13 @@ public class LoginSteps extends BaseSteps {
 
     @Step
     public void clickLostPassword(){
-        loginPage.clickLostPasswordButton();
+        loginPage.clickLostPasswordLink();
     }
 
     @Step
-    public void clickResetPassword(){
-        loginPage.clickResetPasswordButton();
+    public void checkIfLoginButtonIsDisplayed(){
+        loginPage.checkIfLoginButtonIsDisplayed();
     }
+
+
 }

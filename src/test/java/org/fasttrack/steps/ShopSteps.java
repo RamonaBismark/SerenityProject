@@ -34,4 +34,10 @@ public class ShopSteps extends BaseSteps {
         productPage.checkReviewIsSuccessfullyPosted(message);
     }
 
+    @Step
+    public void clickOnSortByPrice(){
+        productPage.clickOnSortByPrice();
+    }
+
+
 }

@@ -3,7 +3,7 @@ package org.fasttrack.features;
 import org.fasttrack.utils.EnvConstants;
 import org.junit.Test;
 
-public class CheckoutTest extends BaseTest{
+public class CheckoutTest extends BaseTest {
 
     @Test
     public void validCheckoutForTheFirstTime(){
@@ -19,6 +19,7 @@ public class CheckoutTest extends BaseTest{
         checkoutSteps.setPostcode("407812");
         checkoutSteps.setPhone("0751000000");
         checkoutSteps.clickOnPlaceOrder();
+        checkoutSteps.checkOrderDetails();
         checkoutSteps.checkPlacedOrderMess("Thank you. Your order has been received.");
     }
 
@@ -30,6 +31,7 @@ public class CheckoutTest extends BaseTest{
         cartSteps.clickOnShoppingCart();
         cartSteps.clickOnProceedToCheckOut();
         checkoutSteps.clickOnPlaceOrder();
+        checkoutSteps.checkOrderDetails();
         checkoutSteps.checkPlacedOrderMess("Thank you. Your order has been received.");
     }
 
@@ -48,6 +50,7 @@ public class CheckoutTest extends BaseTest{
         checkoutSteps.setPhone("0751000000");
         checkoutSteps.enterEmail("testramo@mailinator.com");
         checkoutSteps.clickOnPlaceOrder();
+        checkoutSteps.checkOrderDetails();
         checkoutSteps.checkPlacedOrderMess("Thank you. Your order has been received.");
     }
 

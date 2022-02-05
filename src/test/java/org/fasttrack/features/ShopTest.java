@@ -3,14 +3,14 @@ package org.fasttrack.features;
 import org.fasttrack.utils.EnvConstants;
 import org.junit.Test;
 
-public class ShopTest extends BaseTest{
+public class ShopTest extends BaseTest {
 
     @Test
     public void sortByTest(){
         loginSteps.doLogin(EnvConstants.USER_EMAIL, EnvConstants.USER_PASSWORD);
         shopSteps.goToShop();
         shopSteps.sortBy();
-//--------------lipseste selectorul de dropdown din sortby...
+        shopSteps.clickOnSortByPrice();
     }
 
 
@@ -23,6 +23,5 @@ public class ShopTest extends BaseTest{
         shopSteps.clickOnSubmit();
         shopSteps.checkReviewPostedMessage("Your review is awaiting approval");
     }
-
 
 }

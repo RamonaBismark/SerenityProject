@@ -1,7 +1,9 @@
 package org.fasttrack.pages;
 
+import com.gargoylesoftware.htmlunit.ElementNotFoundException;
 import net.serenitybdd.core.annotations.findby.FindBy;
 import net.serenitybdd.core.pages.WebElementFacade;
+import org.openqa.selenium.ElementNotVisibleException;
 
 public class CheckoutPage extends BasePage {
 
@@ -29,12 +31,17 @@ public class CheckoutPage extends BasePage {
     @FindBy(id = "place_order")
     private WebElementFacade placeOrderButton;
 
-    @FindBy(id = ".woocommerce-notice--success")
+    @FindBy(css = ".woocommerce-notice--success")
     private WebElementFacade placedOrderMessage;
 
     @FindBy(css = ".woocommerce-error")
     private WebElementFacade errorMessage;
 
+    @FindBy(css = ".woocommerce-order-details")
+    private WebElementFacade orderDetails;
+
+    @FindBy (css = ".blockUI.blockOverlay")
+    private WebElementFacade spinnerRow;
 
     public void setFirstNameField(String firstName) {
         typeInto(firstNameField, firstName);
@@ -64,9 +71,28 @@ public class CheckoutPage extends BasePage {
         typeInto(emailField, email);
     }
 
-    public void clickOnPlaceOrderButton() {
+    public void clickOnPlaceOrderButton(){
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         clickOn(placeOrderButton);
+        if (!spinnerRowIsDisplayed()){
+            clickOn(placeOrderButton);
+        }
     }
+
+    public boolean spinnerRowIsDisplayed(){
+        try {
+            return spinnerRow.isDisplayed();
+        } catch (ElementNotVisibleException | ElementNotFoundException exception){
+            return false;
+        }
+    }
+
+
+
 
     public void checkPlacedOrderMessage(String message) {
         placedOrderMessage.shouldContainText(message);
@@ -75,4 +101,11 @@ public class CheckoutPage extends BasePage {
     public void checkErrorMessage(String message) {
         errorMessage.shouldContainText(message);
     }
+
+    public void waitForOrderDetails() {
+        orderDetails.waitUntilVisible();
+
+    }
+
+
 }

@@ -15,7 +15,7 @@ public class BlogPage extends BasePage {
     private WebElementFacade postCommentButton;
 
     @FindBy(css = ".comment-list")
-    private WebElementFacade commentSuccessfullPosted;
+    private WebElementFacade commentSuccessfulPosted;
 
     @FindBy(css = "body#error-page")
     private WebElementFacade errorDuplicateReview;
@@ -33,8 +33,8 @@ public class BlogPage extends BasePage {
         clickOn(postCommentButton);
     }
 
-    public void checkCommentSuccessfullPosted(String message) {
-        commentSuccessfullPosted.shouldContainText(message);
+    public void checkCommentSuccessfulPosted(String message) {
+        commentSuccessfulPosted.shouldContainText(message);
     }
 
     public void checkCommentErrorDuplicateReview(String message) {

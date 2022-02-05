@@ -36,6 +36,9 @@ public class ProductPage extends BasePage{
     @FindBy (css = ".woocommerce-review__awaiting-approval")
     private WebElementFacade reviewSuccessfullyPosted;
 
+    @FindBy (xpath = "//select[@class='orderby']/option[@value='price']")
+    private WebElementFacade sortByPrice;
+
 
     public void clickAddToCartButton(){
         clickOn(addToCartButton);
@@ -73,5 +76,9 @@ public class ProductPage extends BasePage{
 
     public void checkReviewIsSuccessfullyPosted(String message){
         reviewSuccessfullyPosted.shouldContainText(message);
+    }
+
+    public void clickOnSortByPrice(){
+        clickOn(sortByPrice);
     }
 }

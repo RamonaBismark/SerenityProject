@@ -21,7 +21,7 @@ public class MyAccountTest extends BaseTest {
         myAccountSteps.clickOnEdit();
         myAccountSteps.setNewCity("Feleac");
         myAccountSteps.clickOnSaveAddress();
-        myAccountSteps.checkAddressSuccessfullyChangedMessage("Address changed successfully.");
+        myAccountSteps.checkDetailsMessage("Address changed successfully.");
     }
 
 
